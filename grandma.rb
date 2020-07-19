@@ -1,4 +1,5 @@
 def speak_to_grandma(string)
+<<<<<<< HEAD
   if string == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif string == 'Hi Nana, how are you?'
@@ -11,3 +12,12 @@ def speak_to_grandma(string)
     return "NO, NOT SINCE 1938!"
 end
 end
+=======
+  if string = "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
+  else 
+    return " "
+  
+end  
+  end 
+>>>>>>> 404f3b39dd1a537bf4d539f4b43b9edc33fd0904
